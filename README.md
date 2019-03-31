@@ -4,6 +4,10 @@ and i have used pretrained model where it uses the fastai library.. and the mode
 whether the given test photo is nueclophile or esinophil etc..
 
 # required libraries --fastai library
-# dataset source kaggle/blood-sample dataset
+# this is the cleaning of the dataset and preparing it for the learning
 
+![](images/cleaning.png)
 
+# after training the model looks like the following with training accuracy...
+
+![](images/learning.png)
