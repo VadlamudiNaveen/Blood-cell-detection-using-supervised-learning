@@ -4,7 +4,7 @@ and i have used pretrained model where it uses the fastai library.. and the mode
 whether the given test photo is nueclophile or esinophil etc..
 
 # required libraries --fastai library
-# this is the cleaning of the dataset and preparing it for the learning
+# This is the cleaning of the dataset and preparing it for the learning
 
 ![](images/cleaning.png)
 
