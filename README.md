@@ -12,3 +12,7 @@ whether the given test photo is nueclophile or esinophil etc..
 # after training the model looks like the following with training accuracy...
 
 ![](images/learning.png)
+
+# This is the output when we are giving the input to the ... model...
+
+![](images/predict.png)
